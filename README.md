@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prakhar Dixit</h1>
 
-<!--
-**Prakhar-dixit01/Prakhar-dixit01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Cybersecurity Student • Python Developer • AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building AI Tools, Security Projects & Real-World Applications
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student
+- 🔐 Cybersecurity Enthusiast
+- 💻 Python Developer
+- 🤖 Learning AI/ML
+
+## 🛠 Tech Stack
+
+Python • Git • Linux • HTML • CSS • SQL
+
+## 📫 Contact
+
+Email: dixit001prakhar@gmail.com
