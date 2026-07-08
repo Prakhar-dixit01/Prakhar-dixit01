@@ -2,33 +2,39 @@
 
 # 👋 Hi, I'm Prakhar Dixit
 
-### Software Engineer • AI Developer • Cybersecurity Enthusiast
+### Full Stack Developer | AI Product Builder | Cybersecurity Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Applications;Full+Stack+Developer;Cybersecurity+Enthusiast;Python+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+Real-World+Software+Projects;Full+Stack+Developer;AI+Product+Builder;Backend+Developer;Always+Learning+and+Building"/>
+
+<img src="https://komarev.com/ghpvc/?username=Prakhar-dixit01&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 🎓 B.Tech Computer Science Engineering (AI & ML)
 
-💻 Passionate about building production-ready applications.
+💻 Passionate Full Stack Developer
 
-🤖 Interested in Artificial Intelligence, Backend Development, Cybersecurity and Cloud Computing.
+🚀 Building AI-powered products and scalable web applications.
 
-🌱 Currently Learning
+🔐 Interested in Cybersecurity and Backend Development.
 
-- System Design
-- Docker
-- Kubernetes
-- Machine Learning
-- Reverse Engineering
+💡 I enjoy solving real-world problems through software and continuously improving my development skills.
 
-⚡ Fun Fact
+---
 
-I enjoy creating software that solves real-world problems.
+# 🚀 Current Focus
+
+- Building AI SaaS Applications
+- CRM Systems
+- Business Opportunity Analyzer
+- DeviceScope AI (Device Diagnostics Platform)
+- Android Development
+- Backend APIs
+- Database Design
 
 ---
 
@@ -37,68 +43,58 @@ I enjoy creating software that solves real-world problems.
 ## Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,kotlin,javascript,typescript"/>
-
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,html,css"/>
 </p>
 
 ## Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 </p>
 
 ## Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
 </p>
 
 ## Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,mysql"/>
 </p>
 
 ## Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,androidstudio,postman"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,androidstudio,vercel"/>
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prakhar-dixit01&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prakhar-dixit01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar-dixit01&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar-dixit01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar-dixit01&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar-dixit01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -122,11 +118,22 @@ I enjoy creating software that solves real-world problems.
 
 | Project | Description |
 |----------|-------------|
-| 🤖 DeviceScope AI | AI Powered Device Diagnostics |
-| 🏢 CRM SaaS | Complete CRM Platform |
-| 📊 Business Analyzer | AI Business Opportunity Analyzer |
-| 📧 Cold Email AI | AI Outreach Platform |
-| 🔐 Cyber Toolkit | Ethical Hacking Utilities |
+| 🤖 DeviceScope AI | AI Powered Device Diagnostics Platform |
+| 💼 CRM SaaS | Complete CRM & Business Management Platform |
+| 📊 Business Opportunity Analyzer | AI-based Business Website Opportunity Analyzer |
+| 📧 AI Cold Email Generator | AI-powered Outreach Tool |
+| 🌐 Portfolio & Business Websites | Modern Full Stack Web Applications |
+
+---
+
+# 🎯 Interests
+
+- Artificial Intelligence
+- Full Stack Development
+- Backend Engineering
+- Android Development
+- Cybersecurity
+- SaaS Development
 
 ---
 
@@ -134,7 +141,7 @@ I enjoy creating software that solves real-world problems.
 
 <p>
 
-<a href="mailto:dixit001prakhar@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -142,7 +149,7 @@ I enjoy creating software that solves real-world problems.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -152,30 +159,8 @@ I enjoy creating software that solves real-world problems.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⚡ "Building software that creates real-world impact."
+
+⭐ If you like my work, consider giving a star to my repositories!
 
 </div>
-
-
-
-
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: Platane/snk@v3
-
-        with:
-
-          github_user_name: Prakhar-dixit01
-
-          outputs: dist/github-contribution-grid-snake.svg
