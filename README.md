@@ -741,3 +741,79 @@ prakhar@github:~$ status
 *"Building products. Solving problems. Growing every day."*
 
 </div>
+---
+
+# 📌 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/Prakhar-dixit01/DeviceScope-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar-dixit01&repo=DeviceScope-AI&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Prakhar-dixit01/CRM-SaaS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Prakhar-dixit01&repo=CRM-SaaS&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 🧩 Engineering Principles
+
+<div align="center">
+
+| Principle | Description |
+|-----------|-------------|
+| 🚀 Build Products | Focus on solving real-world problems |
+| 🧠 Learn by Building | Every project teaches something new |
+| 🧹 Clean Code | Readable, maintainable and scalable |
+| 🔒 Security First | Build secure applications |
+| ⚡ Performance | Optimize for speed and reliability |
+
+</div>
+
+---
+
+# 🛠 Development Workflow
+
+```text
+Idea
+  │
+  ▼
+Research
+  │
+  ▼
+Planning
+  │
+  ▼
+UI/UX Design
+  │
+  ▼
+Backend Development
+  │
+  ▼
+Frontend Development
+  │
+  ▼
+Testing
+  │
+  ▼
+Deployment
+```
+
+---
+
+# 🎯 Current Mission
+
+> Build high-quality AI products, SaaS applications and software that solve real-world problems.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for stopping by!
+
+If you find my projects interesting, consider giving them a ⭐.
+
+</div>
