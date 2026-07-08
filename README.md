@@ -253,3 +253,292 @@ prakhar@github:~$ status
 *"Building software that matters."*
 
 </div>
+
+---
+
+# 🚀 Current Development Journey
+
+<div align="center">
+
+| 🚧 Project | Progress | Status |
+|------------|----------|--------|
+| 🤖 DeviceScope AI | ████████░░ 80% | 🟢 Active |
+| 💼 CRM SaaS | ██████░░░░ 60% | 🟢 Active |
+| 🌐 Business Analyzer | ███████░░░ 70% | 🟢 Active |
+| 📱 Android Apps | █████░░░░░ 50% | 🟡 Learning |
+| ⚡ AI Tools | ████████░░ 80% | 🟢 Active |
+
+</div>
+
+---
+
+# 🧠 What I'm Building
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 AI Products
+
+- AI Business Analyzer
+- DeviceScope AI
+- AI Cold Email Generator
+- AI Website Analyzer
+
+</td>
+
+<td width="50%">
+
+## 💼 SaaS Products
+
+- CRM Platform
+- Admin Dashboard
+- Analytics
+- Client Management
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🌐 Full Stack
+
+- Next.js
+
+- FastAPI
+
+- REST APIs
+
+- Authentication
+
+</td>
+
+<td>
+
+## 📱 Android
+
+- Kotlin
+
+- Device APIs
+
+- Sensors
+
+- Battery Monitoring
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚙ Development Workflow
+
+```text
+Idea
+
+↓
+
+Research
+
+↓
+
+Planning
+
+↓
+
+UI Design
+
+↓
+
+Backend
+
+↓
+
+Frontend
+
+↓
+
+Testing
+
+↓
+
+Deployment
+```
+
+---
+
+# 🏗 Architecture
+
+```text
+                 User
+
+                  │
+
+                  ▼
+
+          Next.js Frontend
+
+                  │
+
+        REST API / WebSocket
+
+                  │
+
+                  ▼
+
+            FastAPI Backend
+
+                  │
+
+     ┌────────────┼────────────┐
+
+     ▼            ▼            ▼
+
+ PostgreSQL    Supabase     AI Engine
+
+                  │
+
+                  ▼
+
+          Device Analytics
+```
+
+---
+
+# 📊 Development Principles
+
+<div align="center">
+
+| Principle | Description |
+|-----------|-------------|
+| 🎯 Product First | Build useful software |
+| 🧩 Clean Code | Readable & Maintainable |
+| 🚀 Performance | Fast & Optimized |
+| 🔐 Security | Secure by Design |
+| 📈 Continuous Learning | Improve Every Project |
+
+</div>
+
+---
+
+# 📂 Current Project Stack
+
+```text
+📦 DeviceScope AI
+
+├── Android
+
+├── FastAPI
+
+├── PostgreSQL
+
+├── AI Analysis
+
+├── Dashboard
+
+└── Reports
+
+
+
+📦 CRM SaaS
+
+├── Next.js
+
+├── Express.js
+
+├── MongoDB
+
+├── Admin Panel
+
+└── Authentication
+```
+
+---
+
+# 📅 2026 Goals
+
+- ✅ Build Production Ready Projects
+
+- ✅ Strengthen Backend Development
+
+- ✅ Build Scalable SaaS Applications
+
+- ✅ Improve Android Development
+
+- ✅ Contribute to Open Source
+
+---
+
+# 💻 Developer Mindset
+
+```python
+class Developer:
+
+    def __init__(self):
+
+        self.name = "Prakhar Dixit"
+
+        self.role = "Full Stack Developer"
+
+        self.focus = [
+            "AI Products",
+            "Backend",
+            "Web Applications",
+            "Android"
+        ]
+
+    def mission(self):
+
+        return "Build software that creates real-world impact."
+
+me = Developer()
+
+print(me.mission())
+```
+
+Output
+
+```text
+Build software that creates real-world impact.
+```
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar-dixit01&theme=github-dark"/>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> "Great software isn't built by writing more code, it's built by solving the right problems."
+
+---
+
+# ☕ Outside Coding
+
+- 💻 Exploring New Technologies
+
+- 📚 Learning Through Projects
+
+- 🚀 Building Ideas
+
+- 🎯 Improving Every Day
+
+---
+
+# ⭐ If you like my projects
+
+Give a ⭐ to support my work!
