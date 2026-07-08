@@ -1,40 +1,63 @@
 <div align="center">
 
-# 👋 Hi, I'm Prakhar Dixit
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Prakhar Dixit
 
-### Full Stack Developer | AI Product Builder | Cybersecurity Enthusiast
+### 🚀 Full Stack Developer • AI Product Builder • Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+Real-World+Software+Projects;Full+Stack+Developer;AI+Product+Builder;Backend+Developer;Always+Learning+and+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Products;Full+Stack+Developer;Backend+Engineering;Building+Projects+That+Matter;Always+Learning+Through+Projects"/>
 
-<img src="https://komarev.com/ghpvc/?username=Prakhar-dixit01&label=Profile+Views&color=0e75b6&style=flat"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Prakhar-dixit01&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Prakhar-dixit01?style=for-the-badge&color=58A6FF"/>
+
+<img src="https://img.shields.io/github/stars/Prakhar-dixit01?style=for-the-badge&color=58A6FF"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 Developer Dashboard
 
-🎓 B.Tech Computer Science Engineering (AI & ML)
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-💻 Passionate Full Stack Developer
+👤 Name        : Prakhar Dixit
 
-🚀 Building AI-powered products and scalable web applications.
+🎓 Education   : B.Tech CSE (AI & ML)
 
-🔐 Interested in Cybersecurity and Backend Development.
+💻 Role        : Full Stack Developer
 
-💡 I enjoy solving real-world problems through software and continuously improving my development skills.
+🤖 Focus       : AI Powered Products
+
+🌎 Location    : India
+
+🚀 Mission     : Build software that solves real-world problems.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 
-# 🚀 Current Focus
+# 🚀 About Me
 
-- Building AI SaaS Applications
-- CRM Systems
-- Business Opportunity Analyzer
-- DeviceScope AI (Device Diagnostics Platform)
-- Android Development
-- Backend APIs
-- Database Design
+I'm a passionate developer who enjoys transforming ideas into real-world software products.
+
+Instead of building tutorial projects, I focus on developing practical applications such as AI tools, CRM platforms, automation software, business solutions, and scalable web applications.
+
+I believe the best way to learn is by building products.
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 DeviceScope AI
+- 💼 CRM SaaS
+- 🌐 Business Website Analyzer
+- ⚡ Backend APIs
+- 📱 Android Applications
+- 🚀 AI Powered Software
 
 ---
 
@@ -61,14 +84,61 @@
 ## Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,mysql"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase"/>
 </p>
 
-## Tools
+## Developer Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,androidstudio,vercel"/>
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 DeviceScope AI
+
+AI Powered Device Diagnostics Platform
+
+- Battery Analytics
+- Device Monitoring
+- Performance Analysis
+- AI Recommendations
+
+---
+
+## 💼 CRM SaaS
+
+Modern CRM Platform
+
+- Lead Management
+
+- Customer Dashboard
+
+- Analytics
+
+- Reports
+
+---
+
+## 🌐 Business Opportunity Analyzer
+
+AI Powered Business Analysis Platform
+
+- Business Detection
+
+- Website Suggestions
+
+- Opportunity Score
+
+- Growth Analysis
+
+---
+
+## 📧 AI Cold Email Generator
+
+Generate personalized outreach emails using AI.
 
 ---
 
@@ -108,36 +178,55 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prakhar-dixit01&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Prakhar-dixit01&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 💡 Engineering Philosophy
 
-| Project | Description |
-|----------|-------------|
-| 🤖 DeviceScope AI | AI Powered Device Diagnostics Platform |
-| 💼 CRM SaaS | Complete CRM & Business Management Platform |
-| 📊 Business Opportunity Analyzer | AI-based Business Website Opportunity Analyzer |
-| 📧 AI Cold Email Generator | AI-powered Outreach Tool |
-| 🌐 Portfolio & Business Websites | Modern Full Stack Web Applications |
+```text
+✔ Build Products
 
----
+✔ Learn by Building
 
-# 🎯 Interests
+✔ Write Clean Code
 
-- Artificial Intelligence
-- Full Stack Development
-- Backend Engineering
-- Android Development
-- Cybersecurity
-- SaaS Development
+✔ Solve Real Problems
+
+✔ Keep Improving Every Day
+```
 
 ---
 
-# 📫 Connect With Me
+# 💻 Terminal
+
+```bash
+prakhar@github:~$ whoami
+
+Prakhar Dixit
+
+prakhar@github:~$ role
+
+Full Stack Developer
+
+prakhar@github:~$ current_project
+
+DeviceScope AI
+
+prakhar@github:~$ mission
+
+Build software that creates real-world impact.
+
+prakhar@github:~$ status
+
+🟢 Coding...
+```
+
+---
+
+# 📫 Connect
 
 <p>
 
@@ -149,7 +238,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -159,8 +248,8 @@
 
 <div align="center">
 
-### ⚡ "Building software that creates real-world impact."
+### ⭐ Thanks for visiting my profile!
 
-⭐ If you like my work, consider giving a star to my repositories!
+*"Building software that matters."*
 
 </div>
